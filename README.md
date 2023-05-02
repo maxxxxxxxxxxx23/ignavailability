@@ -1,4 +1,4 @@
-# ignavailability
+# IGN Availability checker made by smashskitten
 
 I made this in hope to find an oguser but did'y succeed. I'm unware if there is open source code like this and if there is I'd appreciate if you fowarded it to me.
 
